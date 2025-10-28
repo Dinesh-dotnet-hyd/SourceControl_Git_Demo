@@ -10,6 +10,8 @@ namespace SourceControl_Git_Demo
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello World");
+            Console.WriteLine("DotNet");
         }
     }
 }
